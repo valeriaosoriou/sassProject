@@ -1,0 +1,15 @@
+@import 'cssresets';
+@import 'variables';
+@import 'nav';
+@import 'images';
+@import 'icons';
+
+body{
+  background: $backColor;
+  color: $fontColor;
+}
+
+h1{
+  padding: $padding;
+  margin: 10*$margin;
+}

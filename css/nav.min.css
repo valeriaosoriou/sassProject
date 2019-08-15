@@ -1,0 +1,1 @@
+body:before{white-space:pre;font-family:monospace;content:"Error: Undefined variable: \"$padding\".\A         on line 2 of /Users/270022830/Desktop/sassProject/sass/nav.scss\A \A 1: nav{\A 2:   padding:3*$padding;\A 3:   ul{\A 4:     li{\A 5:       padding:$padding;\A 6:     }\A 7:   }"}
